@@ -1,0 +1,26 @@
+[
+    {
+        "uuid": "a6a3241d-b070-302a-92f9-bcddf06d35b5",
+        "first_name": "Helmuth",
+        "last_name": "Vogel",
+        "goalsAchieved": 10,
+        "currentGoal": "3x Sauce mit Quatsch essen!",
+        "totalGoals": [
+            "Eat all",
+            "Eat nothing"
+        ]
+
+    },
+    {
+        "uuid": "a6a3241d-b070-302a-92f9-bcddf06d35b5",
+        "first_name": "Helmuth",
+        "last_name": "Vogel",
+        "goalsAchieved": 0,
+        "currentGoal": "3x Sauce mit Quatsch essen!",
+        "totalGoals": [
+            "Eat all",
+            "Eat nothing"
+        ]
+
+    }
+]
